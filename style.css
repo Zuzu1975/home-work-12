@@ -1,0 +1,22 @@
+/* body{
+    background-color: red;
+} */
+
+/* .black{
+    background-color: black;
+    color: red;
+} */
+/*.pad{                               
+    padding: 20px;
+/* }    */                                      /*добавление доп класса */
+
+/* .bodys{
+    background-color: black;
+    color: white;
+} */
+
+.bodys{
+width: 100%;
+text-align: center; 
+vertical-align: center;
+}
